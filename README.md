@@ -5,7 +5,7 @@ Implementation of sorting algorithms using C
 
 Quicksort
 ---------
-Quicksort on average, makes O(n log n) comparisons to sort _n_ items. In the worst case, it makes O(n^2) comparisons.
+Quicksort on average, makes O(n log n) comparisons to sort _n_ items. In the worst case, it makes O(n²) comparisons.
 
 This implementation of Quicksort is a Cormen's approach which can be found on his book Introduction to Algorithms.
 
