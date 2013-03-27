@@ -1,4 +1,4 @@
-Sort
+sort
 ====
 
 Implementation of sorting algorithms using C
@@ -11,10 +11,10 @@ This implementation of Quicksort is a Cormen's approach which can be found on hi
 
 The program takes two command line arguments. The first one tells the program how many elements it should sort. The second one is optional and tells the program if it should display the ordered array or not.
 
-    ./a.out 100 -p
+This will tell the program to sort 100 elements and show the ouput:
 
-This will tell the program to sort 100 elements and show the ouput.
+    ./a.out 100 -p
+    
+This will tell the program to sort 1000000 elements and ignore the output:
 
     ./a.out 1000000
-
-This will tell the program to sort 1000000 elements and ignore the output.
